@@ -32,7 +32,7 @@ To view or edit this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/kasper-website.git
+   git clone https://github.com/TrRahim/kasper-website.git
 2. **Navigate to the project directory**:
    ```bash
    cd kasper-website
